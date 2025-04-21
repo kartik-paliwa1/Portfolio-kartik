@@ -3,7 +3,7 @@
   {
     "name": "CI/CD Pipeline Implementation",
     "desc": "Integrated GitHub for version control, Docker for containerization, and Kubernetes for orchestration.",
-    "image": "cic",
+    "image": "saas",
     "category": "mern",
     "links": {
       "view": "https://instarnstack.herokuapp.com/",
