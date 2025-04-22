@@ -1,0 +1,33 @@
+[
+  
+  {
+    "name": "CI/CD Pipeline Implementation",
+    "desc": "Integrated GitHub for version control, Docker for containerization, and Kubernetes for orchestration.",
+    "image": "cic",
+    "category": "mern",
+    "links": {
+      "view": "https://instarnstack.herokuapp.com/",
+      "code": "https://github.com/kartik-paliwa1"
+    }
+  },
+  {
+    "name": "End-to-End DevOps",
+    "desc": "Designed and deployed containerized applications using Kubernetes on AWS EC2, with ELB for traffic distribution.",
+    "image": "devop",
+    "category": "mern",
+    "links": {
+      "view": "https://flipbs.herokuapp.com/",
+      "code": "https://github.com/kartik-paliwa1"
+    }
+  },
+  {
+    "name": "AWS Application Deployment",
+    "desc": "Deployed a web app on AWS EC2 using Apache HTTPD and Docker for containerization.",
+    "image": "aws",
+    "category": "mern",
+    "links": {
+      "view": "https://reegenx.netlify.app/",
+      "code": "https://github.com/kartik-paliwa1/Portofolio-API"
+    }
+  }
+]
