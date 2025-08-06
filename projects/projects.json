@@ -1,0 +1,33 @@
+[
+  
+  {
+    "name": "end-to-end-pipeline-jenkins",
+    "desc": "This project successfully demonstrates a complete industry-level application deployment, utilizing various DevOps tools.",
+    "image": "cicd",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/kartik-paliwa1/Ultimate-devops-lifecycle",
+      "view": "https://github.com/kartik-paliwa1/Ultimate-devops-lifecycle/tree/main/project%20screenshots"
+    }
+  },
+  {
+    "name": "End-to-End-devops-project",
+    "desc": "This project successfully demonstrates a complete, end-to-end DevOps workflow, automating the entire lifecycle of a cloud-native Go application. By integrating key technologies like Kubernetes, Argo CD for GitOps, and Prometheus for observability, it establishes a robust, secure, and scalable production environment.",
+    "image": "ultimate",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/kartik-paliwa1/end-to-end-devops-project",
+      "view": "https://github.com/kartik-paliwa1/end-to-end-devops-project/tree/main/screenshots"
+    }
+  },
+  {
+    "name": "End-to-End-pipeline-jenkins",
+    "desc": "This repository outlines building and automating an end-to-end CI/CD pipeline. It fetches code from a GitHub repository, builds it, performs static code analysis, containerizes the application with Docker, and deploys it to a Kubernetes cluster managed by Argo CD.",
+    "image": "pro",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/kartik-paliwa1/end-to-end-pipeline-jenkins",
+      "view": "https://github.com/kartik-paliwa1/end-to-end-pipeline-jenkins/tree/main/uploads"
+    }
+  }
+]
