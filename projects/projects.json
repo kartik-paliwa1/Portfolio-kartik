@@ -12,7 +12,7 @@
   },
   {
     "name": "End-to-End-devops-project",
-    "desc": "This project successfully demonstrates a complete, end-to-end DevOps workflow, automating the entire lifecycle of a cloud-native Go application. By integrating key technologies like Kubernetes, Argo CD for GitOps, and Prometheus for observability, it establishes a robust, secure, and scalable production environment.",
+    "desc": "This project successfully demonstrates a complete, end-to-end DevOps workflow, automating the entire lifecycle of a cloud-native Go application.",
     "image": "ultimate",
     "category": "mern",
     "links": {
@@ -22,7 +22,7 @@
   },
   {
     "name": "End-to-End-pipeline-jenkins",
-    "desc": "This repository outlines building and automating an end-to-end CI/CD pipeline. It fetches code from a GitHub repository, builds it, performs static code analysis, containerizes the application with Docker, and deploys it to a Kubernetes cluster managed by Argo CD.",
+    "desc": "This repository outlines building and automating an end-to-end CI/CD pipeline. It fetches code from a GitHub repository, builds it and deploys it.",
     "image": "pro",
     "category": "mern",
     "links": {
@@ -31,3 +31,4 @@
     }
   }
 ]
+
