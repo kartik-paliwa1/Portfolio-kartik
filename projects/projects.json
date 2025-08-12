@@ -1,7 +1,7 @@
 [
   
   {
-    "name": "end-to-end-pipeline-jenkins",
+    "name": "Ultimate-devops-lifecycle",
     "desc": "This project successfully demonstrates a complete industry-level application deployment, utilizing various DevOps tools.",
     "image": "cicd",
     "category": "mern",
@@ -31,5 +31,6 @@
     }
   }
 ]
+
 
 
